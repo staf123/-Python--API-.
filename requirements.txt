@@ -1,0 +1,69 @@
+amqp ==5.1.0 
+asgiref==3.4.1 
+attrs==21.4.0 
+бильярд ==3.6.4.0 
+сельдерей ==5.2.3 
+сертификат==2021.10.8 
+cffi ==1.15.0 
+кодировка-нормализатор ==2.0.12 
+нажмите ==8.0.4 
+нажмите-didyoumean == 0.3.0 
+нажмите-плагины ==1.1.1 
+нажмите-repl==0.2.0 
+colorama==0.4.4 
+криптография ==36.0.1 
+defusedxml==0.7.1 
+Устарел ==1.2.13 
+distlib==0.3.4 
+Django==3.2.8 
+django-allauth==0.49.0 
+django-cuser==2017.3.16 
+django-filter==21.1 
+django-modeltranslation==0.17.5 
+django-property-filter==1.1.0 
+django-rest-passwordreset==1.2.1 
+django-tinymce==3.4.0 
+djangorestframework==3.13.1 
+dnspython==2.2.1 
+docopt==0.6.2 
+drf-впечатляющий == 0.21.2 
+drf-зрелищный-коляска==2022.3.14 
+eventlet==0.33.0 
+блокировка файлов == 3.5.0 
+geographiclib==1.52 
+geopy==2.2.0 
+greenlet ==1.1.2 
+idna==3.3 
+перегиб == 0.5.1 
+установить ==1.3.5 
+jsonschema==4.4.0 
+комбу ==5.2.4 
+перевод модели ==0.25 
+oauthlib==3.2.0 
+упаковка == 21.3 
+Подушка ==9.0.1 
+pipenv==2022.1.8 
+platformdirs==2.5.0 
+подсказка-инструментарий ==3.0.28 
+psycopg2==2.9.3 
+pycparser==2,21 
+PyJWT==2.3.0 
+pyparsing==3.0.7 
+pyrsistent==0.18.1 
+python3-OpenID==3.2.0 
+pytz ==2021.3 
+PyYAML ==6.0 
+redis==4.1.4 
+запросы ==2.27.1 
+запросы-oauthlib==1.3.1 
+шесть == 1.16.0 
+sqlparse==0.4.2 
+ujson==5.1.0 
+uritemplate==4.1.1 
+urllib3==1.26.8 
+vine==5.0.0 
+virtualenv==20.13.1 
+virtualenv-clone==0.5.7 
+wcwidth==0.2.5 
+обертка ==1.14.0 
+yarg==0.1.9 
