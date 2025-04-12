@@ -1,7 +1,7 @@
 
 
 
-password=awsgraer
+password=awsgraerg54t45
 pass=aesrhbge5r6asrg
 пароль=q34tw4ght
 
