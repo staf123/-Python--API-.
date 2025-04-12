@@ -2,7 +2,7 @@
 
 
 password=awsgraer
-pass=aesrhbge5r6
+pass=aesrhbge5r6asrg
 пароль=q34tw4ght
 
 
