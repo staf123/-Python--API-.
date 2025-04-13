@@ -1,6 +1,6 @@
 import os
 import sys
-#test88888wrgsetgsarfc
+#test88888wrgsetgsarfcкфпыуе
 
 
 def main():
