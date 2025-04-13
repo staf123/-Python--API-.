@@ -2,6 +2,7 @@ import os
 import sys
 #test88888
 
+
 def main():
     os.environ.setdefault('DJANGO_SETTINGS_MODULE', 'orders.settings')
     try:
