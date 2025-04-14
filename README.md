@@ -3,7 +3,7 @@
 
 
 password=zdzthxdtghxrt88888
-pass=zdthsrhshzhx8888888
+pass=zdthsrhshzhx8888888e5r6u
 пароль=bSZhzt5xrh8888888
 
 
